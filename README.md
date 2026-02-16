@@ -27,27 +27,25 @@ Each row represents a unique SKU.
 
 ## 📊 Columns
 
-  Column                   Description
-  ------------------------ ----------------------------------------------------
-  sku_id                   Synthetic primary key
+**sku_id:** Synthetic primary key
   
-  category                 Product category (Fruits, Snacks, Beverages, etc.)
+**category:** Product category (Fruits, Snacks, Beverages, etc.)
   
-  name                     Product name
+**name:** Product name
   
-  mrp                      Maximum Retail Price (converted from paise to ₹)
+**mrp:** Maximum Retail Price (converted from paise to ₹)
   
-  discountPercent          Discount percentage applied
+**discountPercent:** Discount percentage applied
   
-  discountedSellingPrice   Final selling price (₹)
+**discountedSellingPrice:** Final selling price (₹)
   
-  availableQuantity        Units available in inventory
+**availableQuantity:** Units available in inventory
   
-  weightInGms              Product weight in grams
+**weightInGms:** Product weight in grams
   
-  outOfStock               Boolean stock availability flag
+**outOfStock:** Boolean stock availability flag
   
-  quantity                 Units per package
+**quantity:** Units per package
 
 ------------------------------------------------------------------------
 
