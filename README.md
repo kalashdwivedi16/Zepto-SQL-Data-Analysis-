@@ -56,8 +56,8 @@ constraints.
 
 ## 2️⃣ Data Import
 
--   Imported CSV using pgAdmin\
--   Resolved UTF-8 encoding issue\
+-   Imported CSV using pgAdmin
+-   Resolved UTF-8 encoding issue
 -   Verified successful row ingestion
 
 ## 3️⃣ Data Exploration
