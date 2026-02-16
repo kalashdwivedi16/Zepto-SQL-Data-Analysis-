@@ -62,50 +62,50 @@ constraints.
 
 ## 3️⃣ Data Exploration
 
--   Verified total SKU count\
--   Observed sample records\
--   Checked null values\
--   Identified distinct categories\
--   Compared in-stock vs out-of-stock SKUs\
+-   Verified total SKU count
+-   Observed sample records
+-   Checked null values
+-   Identified distinct categories
+-   Compared in-stock vs out-of-stock SKUs
 -   Detected duplicate product names
 
 ## 4️⃣ Data Cleaning & Transformation
 
--   Removed invalid price records\
+-   Removed invalid price records
 -   Converted prices from paise to rupees
 
 ------------------------------------------------------------------------
 
 # 📊 Business Insights
 
--   Top 10 best-value products based on discount percentage\
--   High MRP products are currently out of stock\
--   Estimated revenue per category\
--   Premium products with minimal discount\
--   Top 5 categories by average discount\
--   Price per gram analysis\
--   Weight-based segmentation\
+-   Top 10 best-value products based on discount percentage
+-   High MRP products are currently out of stock
+-   Estimated revenue per category
+-   Premium products with minimal discount
+-   Top 5 categories by average discount
+-   Price per gram analysis
+-   Weight-based segmentation
 -   Total inventory weight per category
 
 ------------------------------------------------------------------------
 
 # 📈 Key Findings
 
--   Revenue concentration varies significantly across categories.\
--   Some categories rely heavily on a discount-driven sales strategy.\
--   Premium stock-outs indicate potential revenue leakage.\
+-   Revenue concentration varies significantly across categories.
+-   Some categories rely heavily on a discount-driven sales strategy.
+-   Premium stock-outs indicate potential revenue leakage.
 -   Bulk packaging often delivers better price-per-gram value.
 
 ------------------------------------------------------------------------
 
 # 🧠 Skills Demonstrated
 
--   SQL Data Modeling\
--   Data Cleaning & Transformation\
--   Aggregations & Grouping\
--   Conditional Logic (CASE)\
--   Revenue Estimation\
--   Inventory Risk Analysis\
+-   SQL Data Modeling
+-   Data Cleaning & Transformation
+-   Aggregations & Grouping
+-   Conditional Logic (CASE)
+-   Revenue Estimation
+-   Inventory Risk Analysis
 -   Pricing Strategy Evaluation
 
 ------------------------------------------------------------------------
