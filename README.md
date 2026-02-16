@@ -30,14 +30,23 @@ Each row represents a unique SKU.
   Column                   Description
   ------------------------ ----------------------------------------------------
   sku_id                   Synthetic primary key
+  
   category                 Product category (Fruits, Snacks, Beverages, etc.)
+  
   name                     Product name
+  
   mrp                      Maximum Retail Price (converted from paise to ₹)
+  
   discountPercent          Discount percentage applied
+  
   discountedSellingPrice   Final selling price (₹)
+  
   availableQuantity        Units available in inventory
+  
   weightInGms              Product weight in grams
+  
   outOfStock               Boolean stock availability flag
+  
   quantity                 Units per package
 
 ------------------------------------------------------------------------
