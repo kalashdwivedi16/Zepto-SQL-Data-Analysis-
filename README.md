@@ -46,7 +46,7 @@ Each row represents a unique SKU.
 
 ## 1️⃣ Database & Table Creation
 
-Created structured SQL table with appropriate data types and
+Created a structured SQL table with appropriate data types and
 constraints.
 
 ## 2️⃣ Data Import
@@ -74,7 +74,7 @@ constraints.
 # 📊 Business Insights
 
 -   Top 10 best-value products based on discount percentage\
--   High MRP products currently out of stock\
+-   High MRP products are currently out of stock\
 -   Estimated revenue per category\
 -   Premium products with minimal discount\
 -   Top 5 categories by average discount\
@@ -87,7 +87,7 @@ constraints.
 # 📈 Key Findings
 
 -   Revenue concentration varies significantly across categories.\
--   Some categories rely heavily on discount-driven sales strategy.\
+-   Some categories rely heavily on a discount-driven sales strategy.\
 -   Premium stock-outs indicate potential revenue leakage.\
 -   Bulk packaging often delivers better price-per-gram value.
 
@@ -107,9 +107,7 @@ constraints.
 
 # 🛠 Tools Used
 
--   PostgreSQL\
--   pgAdmin\
--   SQL\
+-   PostgreSQL
 -   Kaggle Dataset
 
 ------------------------------------------------------------------------
@@ -117,6 +115,7 @@ constraints.
 # 👤 Author
 
 Kalash Dwivedi
-💼 LinkedIn:
+
+💼 LinkedIn: https://www.linkedin.com/in/kalash-dwivedi/
 
 Let’s connect professionally and grow your data career
